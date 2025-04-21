@@ -1,0 +1,10 @@
+transformers==4.30.2
+sentence-transformers==2.2.2
+torch>=1.13,<2.1
+scikit-learn
+pandas
+sqlalchemy
+beautifulsoup4
+requests
+huggingface_hub==0.10.1
+ipykernel
